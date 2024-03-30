@@ -1,4 +1,6 @@
 # Content-Based Recommendation System using Streamlit
+![image](https://github.com/Sanidhya572/RYF/assets/84410647/e5ab36f0-1e64-4aa6-8b31-4b0ca70d89bc)
+
 
 This project implements a content-based recommendation system and integrates it with Streamlit, a popular Python library for creating web applications. Additionally, custom CSS has been added to enhance the user interface.
 
